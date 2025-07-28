@@ -6,3 +6,4 @@
 |---|---|
 | Raven | union facebook |
 | Matcha | discord scraper |
+| Matcha | stitch-counter |
