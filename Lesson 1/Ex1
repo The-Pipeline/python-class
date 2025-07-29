@@ -1,0 +1,8 @@
+while True:
+    print('Input two integer numbers. I will return their product if the product would be equal to or lower than 1000. Otherwise, I will return their sum.')
+    x = input('Enter the first number >')
+    y = input('Enter the second number >')
+    if (int(x)*int(y)<=1000):
+        print((int(x)*int(y)))
+    else:
+        print(int(x)+int(y))
