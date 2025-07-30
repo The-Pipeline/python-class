@@ -1,5 +1,4 @@
 previous_number = 0
 for current_number in range(0,10):
-    sum_number = previous_number + current_number
-    print(f'Current Number: {current_number} Previous Number: {previous_number} sum: {sum_number}')
+    print(f'Current Number: {current_number} Previous Number: {previous_number} sum: {current_number + previous_number}')
     previous_number = current_number
