@@ -3,4 +3,3 @@ for current_number in range(0,10):
     sum_number = previous_number + current_number
     print('Current Number: ' + str(current_number) + ' Previous Number: ' + str(previous_number) + ' sum: ' + str(sum_number))
     previous_number = current_number
-    current_number = current_number + 1
